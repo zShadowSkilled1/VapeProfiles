@@ -16,4 +16,8 @@
         "ProfileName": "Asszura Skidded",
         "OnlineProfileName": "Asszura.vapeprofile.txt"
     }
+    "SnowConfig": {
+        "ProfileName": "SnowConfig",
+        "OnlineProfileName": "SnowConfig.vapeprofile.txt"
+    }
 }
